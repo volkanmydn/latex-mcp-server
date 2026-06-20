@@ -1,0 +1,6 @@
+venv/
+tectonic.exe
+output/
+*.pdf
+__pycache__/
+*.pyc
